@@ -1,0 +1,15 @@
+D:\Repos\C-Sharp-Learning-Project\Part 1 of C-Sharp-Learning-Project\bin\Debug\net6.0\Part 1 of C-Sharp-Learning-Project.exe
+D:\Repos\C-Sharp-Learning-Project\Part 1 of C-Sharp-Learning-Project\bin\Debug\net6.0\Part 1 of C-Sharp-Learning-Project.deps.json
+D:\Repos\C-Sharp-Learning-Project\Part 1 of C-Sharp-Learning-Project\bin\Debug\net6.0\Part 1 of C-Sharp-Learning-Project.runtimeconfig.json
+D:\Repos\C-Sharp-Learning-Project\Part 1 of C-Sharp-Learning-Project\bin\Debug\net6.0\Part 1 of C-Sharp-Learning-Project.dll
+D:\Repos\C-Sharp-Learning-Project\Part 1 of C-Sharp-Learning-Project\bin\Debug\net6.0\ref\Part 1 of C-Sharp-Learning-Project.dll
+D:\Repos\C-Sharp-Learning-Project\Part 1 of C-Sharp-Learning-Project\bin\Debug\net6.0\Part 1 of C-Sharp-Learning-Project.pdb
+D:\Repos\C-Sharp-Learning-Project\Part 1 of C-Sharp-Learning-Project\obj\Debug\net6.0\Part 1 of C-Sharp-Learning-Project.csproj.AssemblyReference.cache
+D:\Repos\C-Sharp-Learning-Project\Part 1 of C-Sharp-Learning-Project\obj\Debug\net6.0\Part 1 of C-Sharp-Learning-Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\C-Sharp-Learning-Project\Part 1 of C-Sharp-Learning-Project\obj\Debug\net6.0\Part 1 of C-Sharp-Learning-Project.AssemblyInfoInputs.cache
+D:\Repos\C-Sharp-Learning-Project\Part 1 of C-Sharp-Learning-Project\obj\Debug\net6.0\Part 1 of C-Sharp-Learning-Project.AssemblyInfo.cs
+D:\Repos\C-Sharp-Learning-Project\Part 1 of C-Sharp-Learning-Project\obj\Debug\net6.0\Part 1 of C-Sharp-Learning-Project.csproj.CoreCompileInputs.cache
+D:\Repos\C-Sharp-Learning-Project\Part 1 of C-Sharp-Learning-Project\obj\Debug\net6.0\Part 1 of C-Sharp-Learning-Project.dll
+D:\Repos\C-Sharp-Learning-Project\Part 1 of C-Sharp-Learning-Project\obj\Debug\net6.0\ref\Part 1 of C-Sharp-Learning-Project.dll
+D:\Repos\C-Sharp-Learning-Project\Part 1 of C-Sharp-Learning-Project\obj\Debug\net6.0\Part 1 of C-Sharp-Learning-Project.pdb
+D:\Repos\C-Sharp-Learning-Project\Part 1 of C-Sharp-Learning-Project\obj\Debug\net6.0\Part 1 of C-Sharp-Learning-Project.genruntimeconfig.cache
